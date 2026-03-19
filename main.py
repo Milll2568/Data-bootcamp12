@@ -1,6 +1,4 @@
 # print("Hello World")
-import pprint
-from ssl import ALERT_DESCRIPTION_BAD_CERTIFICATE
 print("Hello World")
 
 # print good bye
